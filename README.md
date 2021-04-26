@@ -4,7 +4,7 @@
 
 This package contains the code which is associated with the following paper:
 
-Xiaosong Li, Fuqiang Zhou, Haishu Tan. Joint Image Fusion and Deniosing via Three-layer Decomposition and Sparse Representation [J]. preprinted to Knowledge-Based Systems. 
+Xiaosong Li, Fuqiang Zhou, Haishu Tan. Joint Image Fusion and Deniosing via Three-layer Decomposition and Sparse Representation [J]. Accept by Knowledge-Based Systems. 
 
 Usage of this code is free for research purposes only. 
 
@@ -27,4 +27,4 @@ Author: Xiaosong  Li ,et al.
                                                          
 E-mail: lixiaosong@buaa.edu.cn
 
-Last update: 03-24-2021
+
