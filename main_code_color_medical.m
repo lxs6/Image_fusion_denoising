@@ -5,6 +5,7 @@ addpath functions
 addpath ksvdbox13
 addpath KSVD_Matlab_ToolBox
 addpath ompbox10
+addpath source_images
 
 D=cell2mat(struct2cell(load('D_180.mat')));
 
